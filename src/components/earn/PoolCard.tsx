@@ -48,6 +48,7 @@ const TopSection = styled.div`
   display: grid;
   grid-template-columns: 48px 1fr 120px;
   grid-gap: 0px;
+  place-items: center;
   align-items: center;
   padding: 1rem;
   z-index: 1;
